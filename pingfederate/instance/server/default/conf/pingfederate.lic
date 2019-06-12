@@ -1,0 +1,13 @@
+ID=1255481
+Organization=68
+Product=PingFederate
+Version=9.2
+IssueDate=2019-06-4
+EnforcementType=3
+ExpirationDate=2019-07-1
+Tier=Free
+SaasProvisioning=true
+WSTrustSTS=true
+OAuth=true
+SignCode=FF07
+Signature=302C02143C9A16559CC012B9EB7173C947D0564B15FF6103021431A28BFAB86E1E67C9B84C7CB7C84719A0373D19
